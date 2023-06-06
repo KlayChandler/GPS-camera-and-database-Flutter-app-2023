@@ -1,10 +1,8 @@
-# hw8_kac
-
-A new Flutter project.
+# GPC and Camera Demo with Database functionality Demo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project from Pakt Publishing, and is a modernized version as of April 2023. Updates to Flutter may take away functionality if your versions is higher than 3.9
 
 A few resources to get you started if this is your first Flutter project:
 
